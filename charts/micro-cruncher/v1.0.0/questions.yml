@@ -3,6 +3,9 @@ questions:
   - variable: environment.parentName
     type: enum
     required: true
+    testing: edgecasitis
+    peeps: Ryan, Stephen, and Reagan (again)
+    note: this should act funky
     group: "Environment"
     label: Environment Parent
     description: The name of the parent environment we will deploy into and funcation as.
