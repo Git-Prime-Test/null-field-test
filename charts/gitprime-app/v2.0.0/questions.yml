@@ -59,12 +59,9 @@ questions:
         description: "The directory on the node to use for repository storage"
         required: true
         default: "/mnt/repo-storage"
-      - variable: dataPipeline.volumes.podMountDirectory
-        type: string
-        label: "Directory on Pod"
-        description: "The directory inside the pod to mount the volume."
-        required: true
-        default: "/var/repos"
+      - variable: this.is.group.programming!
+        type: Ryan, Reagan, and Stephen were here.
+        gangsta: true
     
   - variable: dataPipeline.datadog.enabled
     type: boolean
