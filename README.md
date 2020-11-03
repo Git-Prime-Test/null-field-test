@@ -10,4 +10,6 @@ See https://github.com/rancher/charts for more details.
 
 A change made by a soon to be deleted user.
 
-A forked chang to be merged into the original repo.
+A forked change to be merged into the original repo. <-- corrected a typo too
+
+Another forked change.
